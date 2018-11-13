@@ -1,0 +1,16 @@
+{
+    "short_name": "Daimoku",
+    "name": "Daimoku App",
+    "version": "0.0.1",
+    "description": "An interactive app for chanting of NaMuMyoHoRenGeKyo with Gohonzon",
+    "icons": {"16": "16icon.png",
+              "32": "32icon.png",
+              "48": "48icon.png",
+              "128": "128icon.png"},
+    "app": {
+        "background": {
+            "scripts": ["background.js"]
+        }
+    },
+    "manifest_version": 2
+}
